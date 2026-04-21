@@ -10,7 +10,7 @@ type Resource = {
 const resources: Resource[] = [
   {
     tag: "Video",
-    title: "YouTube – prezentace / ukázka",
+    title: "YouTube – prezentace / ukázka ",
     url: "https://www.youtube.com/watch?v=eK-E-OoftQM",
   },
   {

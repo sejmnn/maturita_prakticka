@@ -20,8 +20,14 @@ const resources: Resource[] = [
   },
   {
     tag: "Odkaz",
-    title: "Strana 16 – Akt č. 409 / 2025 Sb.",
+    title: "č. 264/2025 Sb., o kybernetické bezpečnosti, vyhláška č. 409/2025 Sb., § 19, odstavec 4, písmeno a)",
     note: "Reference ve Sbírce zákonů ČR",
+  },
+  {
+    tag: "Dokumentace",
+    title: "LLMNR poisoning v praxi – Cyber Rangers",
+    url: "https://www.cyber-rangers.com/cs/clanek/llmnr-poisoning-v-praxi-6krOQo",
+    note: "Podklad k bodu 5a/5b – návrh průniku a záchyt hesla/hashe/certifikátu",
   },
 ];
 

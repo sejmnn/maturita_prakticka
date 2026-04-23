@@ -1,4 +1,5 @@
 import LogoutButton from "./logout-button";
+import TopologyImage from "./topology-image";
 
 type Resource = {
   title: string;
@@ -42,6 +43,9 @@ export default function Page() {
           </div>
           <LogoutButton />
         </div>
+
+        <div className="section-heading">Návrh topologie sítě</div>
+        <TopologyImage />
 
         <div className="section-heading">Zdroje</div>
         <div className="list">
